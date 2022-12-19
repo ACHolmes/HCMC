@@ -1,0 +1,29 @@
+body
+{
+    margin: 0;
+}
+
+#page-container{
+    margin: 0;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+#nav-area
+{
+    margin: 0;
+    position: absolute;
+    height: 100vh;
+    width: 20%;
+    background-color: yellow;
+}
+
+#content-area
+{
+    margin: 0;
+    position: absolute;
+    left: 20%;
+    width: 80%;
+    height: 100vh;
+    background-color: blue;
+}
