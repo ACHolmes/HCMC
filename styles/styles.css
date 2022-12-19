@@ -82,3 +82,14 @@ body {
   font-weight: bolder;
   font-size: 60px;
 }
+
+.font-16
+{
+  font-size: 20px;
+}
+
+#index-info-text
+{
+  background-color:blanchedalmond;
+  border-radius: 30px;
+}
