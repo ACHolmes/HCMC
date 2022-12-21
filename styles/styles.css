@@ -98,3 +98,13 @@ body {
 {
   background-color: #fff;
 }
+
+.flex-col
+{
+  flex-direction: column;
+}
+
+.col-gap
+{
+  gap: 5px;
+}
