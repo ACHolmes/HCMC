@@ -100,7 +100,6 @@ main{
   top: 0;
   left: 0;
   z-index: 800;
-  display: flex;
   flex-direction: column;
   height: calc(100% - 100px);
   width: 100%;
@@ -152,7 +151,7 @@ main{
 
 .font-16
 {
-  font-size: 20px;
+  font-size: 16px;
 }
 
 #index-info-text
